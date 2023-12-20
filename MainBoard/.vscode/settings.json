@@ -1,0 +1,12 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "cortex-debug.armToolchainPath": "C:/arm-gnu-toolchain-11.3.rel1-mingw-w64-i686-arm-none-eabi/arm-gnu-toolchain-11.3.rel1-mingw-w64-i686-arm-none-eabi/bin",
+    "cortex-debug.JLinkGDBServerPath": "C:/Program Files/SEGGER/JLink/JLinkGDBServerCL.exe",
+    "files.associations": {
+        "tle9201sg.h": "c",
+        "pinmap.h": "c",
+        "motor_driver.h": "c",
+        "math.h": "c",
+        "corecrt_math_defines.h": "c"
+    }
+}

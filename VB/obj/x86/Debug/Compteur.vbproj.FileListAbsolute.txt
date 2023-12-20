@@ -1,0 +1,11 @@
+C:\TravailGitlab\Github\Electronic-counter\VB\bin\Debug\ToolsPM2Gilson.exe
+C:\TravailGitlab\Github\Electronic-counter\VB\bin\Debug\ToolsPM2Gilson.pdb
+C:\TravailGitlab\Github\Electronic-counter\VB\bin\Debug\ToolsPM2Gilson.xml
+C:\TravailGitlab\Github\Electronic-counter\VB\obj\x86\Debug\Compteur.vbprojAssemblyReference.cache
+C:\TravailGitlab\Github\Electronic-counter\VB\obj\x86\Debug\WindowsApplication1.BlueSoft.resources
+C:\TravailGitlab\Github\Electronic-counter\VB\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\TravailGitlab\Github\Electronic-counter\VB\obj\x86\Debug\Compteur.vbproj.GenerateResource.cache
+C:\TravailGitlab\Github\Electronic-counter\VB\obj\x86\Debug\Compteur.vbproj.CoreCompileInputs.cache
+C:\TravailGitlab\Github\Electronic-counter\VB\obj\x86\Debug\ToolsPM2Gilson.exe
+C:\TravailGitlab\Github\Electronic-counter\VB\obj\x86\Debug\ToolsPM2Gilson.xml
+C:\TravailGitlab\Github\Electronic-counter\VB\obj\x86\Debug\ToolsPM2Gilson.pdb

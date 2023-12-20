@@ -1,0 +1,20 @@
+
+    {
+        "version": "0.2.0",
+        "configurations": [
+          {
+          "type": "cortex-debug",
+          "request": "launch",
+          "name": "Debug J-Link",
+          "cwd": "${workspaceRoot}",
+          "executable": "${workspaceRoot}/_output/nrf52840_xxaa.out",
+          "servertype": "jlink",
+          "device": "nRF52840_xxAA",
+          "interface": "swd",
+          "serialNumber": "",
+          "runToEntryPoint": "main",     
+          "showDevDebugOutput": "raw",
+          "svdFile": "nrf52840.svd",
+          }
+        ]
+      }
